@@ -73,9 +73,8 @@ form {
     color: #141414; 
   }
 
-  /* Especificidad: 011 */
-  input[name="eliminarJugador"] {
-    background-color: #FF5555; 
+ input[name="eliminarJugador"] {
+    background-color: #000000; 
     color: #FFFFFF; 
     cursor: pointer;
     border: none;
@@ -85,6 +84,6 @@ form {
   
   /* Especificidad: 021 */
   input[name="eliminarJugador"]:hover {
-    background-color: #FF0000; 
+    background-color: #200101; 
     color: #FFFFFF; 
   }
